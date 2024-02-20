@@ -1,0 +1,33 @@
+.post {
+    width: 400px;
+    height: 500px;
+    background-color: yellow;
+    font-family: "Roboto", sans-serif;
+}
+.header {
+    display: flex;
+}
+
+.html5-icon {
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.title h1 {
+    font-size: 10px;
+    margin: 10px 0px 0px 0px;
+    font-weight:bolder;
+}
+
+.title h2 {
+    font-size: 10px;
+    margin-top: 0px;
+
+}
+
+.threepoints-icon {
+    margin-left: auto;
+    margin-right: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
